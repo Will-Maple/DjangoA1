@@ -1,3 +1,8 @@
 1000
 0.145
 3
+
+I have no idea why it told me to take screenshots...
+
+In [13]: print(compounded_principal)
+1501.123625
