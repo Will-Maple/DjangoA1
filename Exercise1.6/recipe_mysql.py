@@ -141,5 +141,6 @@ while(choice != 'quit'):
     conn.commit()
   elif choice == '4':
     delete_recipe(conn, cursor)
+    conn.commit()
 
 conn.close()
